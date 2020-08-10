@@ -1,0 +1,48 @@
+body {
+ text-align:center;
+ font-family: 'Permanent Marker', cursive;
+ color: rgb(156, 196, 217);
+ background-image: url("starr.png");
+ background-size: 45%;
+ background-position: top;
+ background-repeat: no-repeat;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+h2 {
+  font-size: 3rem;
+}
+
+p {
+  font-size: 2rem;
+}
+
+input {
+  border: 1px solid black;
+  height: 1.5rem;
+  width: 3rem;
+  font-size: 1.3rem;
+  margin-left: 10px;
+}
+
+.button {
+  border: 1px solid black;
+  background-color: rgb(211,211,211);
+  color: black;
+  font-size: 1.8rem;
+  padding: 6px 22px;
+}
+
+#output {
+  color: black;
+  font-size: 3rem;
+}
+
+#img img {
+  width: 380px;
+  height: 290px;
+  opacity: 0.5px;
+}
