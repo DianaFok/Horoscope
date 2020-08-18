@@ -6,7 +6,7 @@ A simple horoscope for cats that inputs the day and month.
 ![alt tag](ss.png)
 
 ## Design and Development
-**Skills Used** HTML, CSS, JavaScript
+**Skills Used** HTML, CSS, JavaScript:
 I built this horoscope by breaking down its components and pseudo-coding what they would do (i.e, the twelve signs of the horoscope correlating with their dates). Doing so made it easier to translate into functions in JavaScript.
 
 ## Lessons Learned
